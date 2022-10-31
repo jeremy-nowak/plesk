@@ -1,0 +1,33 @@
+.contact{
+    background-color: aqua;
+    display: flex;
+    flex-direction:row-reverse ;
+
+
+}
+
+.presentation{
+    background-color: rgb(185, 136, 136);
+    display: flex;
+    align-items: center;
+     
+
+}
+
+.scolaire
+{background-color: blueviolet;}
+
+h1{
+    color: rgb(66, 112, 211);
+}
+
+h2  {
+    color:blueviolet
+}
+h3{
+    color: rgb(44, 204, 84);
+}
+.header{
+    display: flex;
+    flex-direction: column;
+}
